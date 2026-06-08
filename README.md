@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0086-partition-list) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
