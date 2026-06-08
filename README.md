@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0031-next-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
@@ -37,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0031-next-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
