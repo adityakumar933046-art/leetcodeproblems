@@ -52,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0595-big-countries) |
+| [1164-product-price-at-a-given-date](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1164-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
