@@ -38,9 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0086-partition-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
