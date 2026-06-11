@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0050-powx-n) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
