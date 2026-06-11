@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Array
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0050-powx-n) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
