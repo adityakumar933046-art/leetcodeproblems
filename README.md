@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0031-next-permutation) |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
+| [0941-valid-mountain-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0941-valid-mountain-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
