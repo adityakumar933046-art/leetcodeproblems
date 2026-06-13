@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
 | [0941-valid-mountain-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0941-valid-mountain-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -151,4 +152,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
