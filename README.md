@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0202-happy-number) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0086-partition-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
