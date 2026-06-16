@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2574-left-and-right-sum-differences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
