@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
