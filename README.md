@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1164-product-price-at-a-given-date) |
+| [1193-monthly-transactions-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
