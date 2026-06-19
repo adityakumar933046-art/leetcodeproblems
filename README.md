@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
 | [0941-valid-mountain-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0941-valid-mountain-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1732-find-the-highest-altitude](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2574-left-and-right-sum-differences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
