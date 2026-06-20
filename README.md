@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0040-combination-sum-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0202-happy-number) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
 | [1840-maximum-building-height](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1840-maximum-building-height) |
 <!---LeetCode Topics End-->
