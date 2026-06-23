@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0069-sqrtx) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0029-divide-two-integers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
 |  |
