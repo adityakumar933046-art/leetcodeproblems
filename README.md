@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
 | [0941-valid-mountain-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0941-valid-mountain-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0078-subsets) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
