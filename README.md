@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
@@ -240,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1189-maximum-number-of-balloons) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
