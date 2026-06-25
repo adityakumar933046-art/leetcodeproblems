@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1154-day-of-the-year](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1154-day-of-the-year) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
 ## Memoization
 |  |
 | ------- |
