@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3697-compute-decimal-representation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3697-compute-decimal-representation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2574-left-and-right-sum-differences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1189-maximum-number-of-balloons) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -249,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
