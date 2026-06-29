@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1395-count-number-of-teams) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
