@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1395-count-number-of-teams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1395-count-number-of-teams) |
+| [1528-shuffle-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1528-shuffle-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1732-find-the-highest-altitude](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1840-maximum-building-height) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1189-maximum-number-of-balloons) |
+| [1528-shuffle-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3612-process-string-with-special-operations-i) |
