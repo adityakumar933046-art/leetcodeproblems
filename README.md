@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
@@ -355,5 +357,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
