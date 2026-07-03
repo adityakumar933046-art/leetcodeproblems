@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1840-maximum-building-height) |
+| [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
+| [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
+| [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Bit Manipulation
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
+| [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
