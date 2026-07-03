@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1395-count-number-of-teams) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3697-compute-decimal-representation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3697-compute-decimal-representation) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0268-missing-number) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
+| [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
@@ -328,11 +332,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
 |  |
@@ -361,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
