@@ -122,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -394,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
