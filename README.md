@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1189-maximum-number-of-balloons) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1288-remove-covered-intervals) |
