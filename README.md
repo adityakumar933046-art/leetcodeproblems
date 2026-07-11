@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
