@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3483-unique-3-digit-even-numbers) |
