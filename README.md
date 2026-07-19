@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -265,11 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Segment Tree
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0242-valid-anagram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1189-maximum-number-of-balloons) |
