@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0941-valid-mountain-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0941-valid-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1324-print-words-vertically](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1324-print-words-vertically) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1260-shift-2d-grid) |
 | [1324-print-words-vertically](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1324-print-words-vertically) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3612-process-string-with-special-operations-i) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
+| [1260-shift-2d-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1260-shift-2d-grid) |
 | [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
