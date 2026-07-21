@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3614-process-string-with-special-operations-ii) |
