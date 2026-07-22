@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0242-valid-anagram) |
