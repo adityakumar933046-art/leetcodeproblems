@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
