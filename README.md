@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
