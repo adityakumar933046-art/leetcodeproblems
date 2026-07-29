@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1260-shift-2d-grid) |
 | [1324-print-words-vertically](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1324-print-words-vertically) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3614-process-string-with-special-operations-ii) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
