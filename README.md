@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
