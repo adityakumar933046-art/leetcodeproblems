@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3501-maximize-active-section-with-trade-ii) |
