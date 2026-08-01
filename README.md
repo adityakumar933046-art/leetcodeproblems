@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1395-count-number-of-teams) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-valid-mountain-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0941-valid-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1200-minimum-absolute-difference) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -525,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0933-number-of-recent-calls) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
