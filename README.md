@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
