@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1395-count-number-of-teams) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0941-valid-mountain-array) |
+| [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1288-remove-covered-intervals) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2574-left-and-right-sum-differences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
@@ -559,12 +563,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
