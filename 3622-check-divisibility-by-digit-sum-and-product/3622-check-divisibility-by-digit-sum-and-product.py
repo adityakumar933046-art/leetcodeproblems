@@ -1,14 +1,14 @@
 class Solution:
     def checkDivisibility(self, n: int) -> bool:
-        digitSum = 0
-        digitProduct = 1
-        original = n
+        a =0
+        b = 1
+        for i in str(n):
+            a+=int(i)
+            b*=int(i)
 
-        while n > 0:
-            digit = n % 10
-            n //= 10
+        if n%(a+b)==0:
+            return True
+        else:
+            return False
 
-            digitSum += digit
-            digitProduct *= digit
-
-        return original % (digitSum + digitProduct) == 0
+        
