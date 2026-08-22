@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1840-maximum-building-height) |
+| [1952-three-divisors](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -618,4 +621,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2029-stone-game-ix) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
