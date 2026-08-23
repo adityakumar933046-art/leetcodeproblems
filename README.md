@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2029-stone-game-ix) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1324-print-words-vertically) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1528-shuffle-string) |
+| [1927-sum-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
