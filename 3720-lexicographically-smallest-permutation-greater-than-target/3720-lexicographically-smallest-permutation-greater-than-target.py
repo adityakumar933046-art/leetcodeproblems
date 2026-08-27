@@ -19,24 +19,24 @@ class Solution:
                     continue
                 cnt[t] += 1
 
-           
+            # Find a larger character
             for c in range(t + 1, 26):
                 if cnt[c] > 0:
                     cnt[c] -= 1
                     res.append(chr(c + ord("a")))
-                    
+                    # Lexicographically smallest permutation of remaining characters
                     res.append(
                         "".join(chr(j + ord("a")) * cnt[j] for j in range(26))
                     )
                     return "".join(res)
 
-           
+            # No feasible solution found
             return ""
 
         return ""
 
     def can_greater(self, cnt: list[int], suffix: str) -> bool:
-       
+        # Construct the largest string from largest to smallest
         max_str = "".join(
             chr(i + ord("a")) * cnt[i] for i in range(25, -1, -1) if cnt[i] > 0
         )
