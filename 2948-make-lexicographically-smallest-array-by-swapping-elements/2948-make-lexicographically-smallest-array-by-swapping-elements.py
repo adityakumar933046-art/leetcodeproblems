@@ -22,7 +22,7 @@ class Solution:
                 group_to_list[curr_group] = deque()
             group_to_list[curr_group].append(nums_sorted[i])
 
-        
+        # iterate through input and overwrite each element with the next element in its corresponding group
         for i in range(len(nums)):
             num = nums[i]
             group = num_to_group[num]
