@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2029-stone-game-ix](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
