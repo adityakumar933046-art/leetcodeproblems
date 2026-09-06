@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0242-valid-anagram) |
