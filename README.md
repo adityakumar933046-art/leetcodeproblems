@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1395-count-number-of-teams) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
