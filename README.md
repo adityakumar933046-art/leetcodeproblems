@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1840-maximum-building-height](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1872-stone-game-viii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1528-shuffle-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
