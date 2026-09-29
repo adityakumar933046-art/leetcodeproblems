@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1872-stone-game-viii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2008-maximum-earnings-from-taxi) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2574-left-and-right-sum-differences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2614-prime-in-diagonal](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2614-prime-in-diagonal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -752,4 +755,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
