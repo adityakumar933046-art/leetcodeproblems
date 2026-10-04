@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0070-climbing-stairs) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0046-permutations) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
