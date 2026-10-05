@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
