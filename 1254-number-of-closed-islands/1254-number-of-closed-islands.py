@@ -20,7 +20,7 @@ class Solution:
         dirx = [0, 1, 0, -1]
         diry = [-1, 0, 1, 0]
                                     
-        while q:
+        while q: 
             x, y = q.popleft()
         
             for i in range(4):
