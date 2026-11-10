@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3693-climbing-stairs-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Array
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3693-climbing-stairs-ii) |
 | [3697-compute-decimal-representation](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3697-compute-decimal-representation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityakumar933046-art/leetcodeproblems/tree/master/3718-smallest-missing-multiple-of-k) |
